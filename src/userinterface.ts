@@ -1,4 +1,3 @@
-import { Userinterface } from "./interfaces"
 
 export class Interface {
 
