@@ -1,6 +1,5 @@
 const customConsole = require('prompt-sync')();
 import { levelOneOptions, levelTwoOptions, levelThreeOptions, mainInterface }  from "./levels";
-import { result } from "./scene"
 
 export let firstLevelOption: number = 1;
 export let secondLevelOption: number = 1;

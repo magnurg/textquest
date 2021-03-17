@@ -12,6 +12,8 @@
   "author": "Anton Ponomarenko",
   "license": "ISC",
   "dependencies": {
+    "@types/color": "^3.0.1",
+    "colors": "^1.4.0",
     "prompt-sync": "^4.2.0"
   },
   "keywords": [
