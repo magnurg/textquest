@@ -2,25 +2,25 @@ LLevel 1.
 
 	You wake up in a strange place and figured that you lost the job, what are you gonna do?
 
-	0.3	a. Find the similar job
-	0.5	b. Try to get a better job, where you have no experience
+	3	a. Find the similar job
+	5	b. Try to get a better job, where you have no experience
 	0	c. Become homeless
 
 Level 2.
 
 	How are you going to find a job?
 
-	0.4	a. Ask friends
-	0.5	b. Search on internet
-	0.3	c. Stop by and ask if they need workers
+	4	a. Ask friends
+	5	b. Search on internet
+	3	c. Stop by and ask if they need workers
 
 Level 3.	
 
 	You found a place to work, but to get employed you have to pass test tasks, and the employer let you a week of time to do that.
 	When you will start to work on the test task
 
-	0.5	a. Right away
-	0.3	b. In the middle of the week when you will have time for it
+	5	a. Right away
+	3	b. In the middle of the week when you will have time for it
 	0	c. In the evening of the last day of the week
 
 
